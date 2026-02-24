@@ -23,6 +23,17 @@ The model follows a star-schema design:
 
 <img width="1278" height="586" alt="image" src="https://github.com/user-attachments/assets/adb53b6e-7670-4ba0-bf1b-887b2128a85e" />
 
+## 📷 Report Preview
+
+### Power BI Dashboard
+
+<img width="1607" height="842" alt="image" src="https://github.com/user-attachments/assets/c51c701a-5526-495d-ad80-100834aeff87" />
+
+
+### Paginated Report (SSRS)
+
+<img width="1857" height="749" alt="image" src="https://github.com/user-attachments/assets/c3c69b3c-ef3c-402d-b479-a3964053d423" />
+
 
 ## 🚀 Business Impact
 
